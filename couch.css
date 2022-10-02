@@ -1,0 +1,30 @@
+#heading {
+    font-size: 23px;
+    letter-spacing: 1px;
+    width: 80%;
+
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.back {
+    margin-left: 30px;
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+}
+
+#status {
+    font-size: 18px;
+    width: auto;
+}
+
+canvas {
+    box-shadow: 10 10 10 gray;
+    border-color: green;
+    border-style: dashed;
+    border-radius: 20px;
+}
